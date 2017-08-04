@@ -55,6 +55,9 @@
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
         <p class="lead">Estrategia version A</p>
+        <div>
+              <img src="images/imagen.jpg" height="400" width="500" />
+	</div>
       </div>
       <div>
 <img src="images/imagen.jpg" height="400" width="500" />

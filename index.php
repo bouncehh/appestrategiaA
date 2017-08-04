@@ -57,7 +57,9 @@
 <<<<<<< HEAD
         <p class="lead">Estrategia version A</p>
       </div>
-
+      <div>
+	  <img src="images/imagen.jpg" />
+	</div>
     </div><!-- /.container -->
 
 

@@ -54,7 +54,6 @@
 
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
-<<<<<<< HEAD
         <p class="lead">Estrategia version A</p>
       </div>
       <div>

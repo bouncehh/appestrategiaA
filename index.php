@@ -59,9 +59,6 @@
               <img src="images/imagen.jpg" height="400" width="500" />
 	</div>
       </div>
-      <div>
-<img src="images/imagen.jpg" height="400" width="500" />
-	</div>
 
     </div><!-- /.container -->
 
